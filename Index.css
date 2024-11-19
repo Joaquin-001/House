@@ -1,0 +1,14 @@
+body{text-align: center;
+        background-image: url(https://i.pinimg.com/originals/14/b2/c3/14b2c303b27bb22107c01c67e4f7f1df.gif); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 3500px
+}
+h2{background-color: rgba(73, 175, 73, 0.521); backface-visibility: 30%;}
+table, tr, td{border: 1px solid black;
+    margin:auto;background-color: rgb(38, 172, 61);}
+    form{background-color: rgb(38, 172, 61); border: 1px solid black;padding: 20px;
+        border-radius: 10px;
+        width: 280px;
+        margin: 0 auto;}
